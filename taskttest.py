@@ -65,7 +65,3 @@ def test_cache():
     assert ajouter(5, 6) == 10
 
 
-
-
-#pour lancer le teste
-#pytest test_cache_decorator.py
